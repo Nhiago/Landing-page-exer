@@ -1,0 +1,139 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@600&display=swap');
+
+*{
+
+    padding: 0;
+    margin: 0;
+
+}
+
+body{
+
+    background-image: url(mate-bg.png);
+    background-position:  right ;
+    background-size: 75% ;
+    background-repeat: no-repeat;
+    background-color: white;
+    margin-top: 10px;
+}
+
+
+.logo{
+
+    margin-left: 30px;
+    
+}
+
+
+.cabe{
+
+    margin-left: 35px;
+    margin-top: 25px;
+    font-size: 24px;
+    display: flex;
+    gap: 50px;
+}
+
+.linha {
+
+    width: 120px;
+    text-align: center;
+
+}
+
+nav a:hover {
+
+    border: 2px solid black;
+    cursor: pointer;
+    transition: 0.1s;
+}
+
+.txt {
+
+    width: 410px;
+    margin-left: 35px;
+    margin-top: 60px;
+
+}
+
+.subT{
+
+    text-align: center;
+    width: 350px;
+    color: rgb(19, 19, 54);
+    font-size: 20px;
+    margin-left: 35px;
+    margin-top: 30px;
+}
+
+.SubT{
+
+    border: 3px solid black;  
+
+
+}
+
+.subTt{
+
+    margin-left:35px;
+    margin-top: 45px;
+}
+
+.SubTt{
+
+    font-size: 24px;
+    color:rgb(235, 179, 37);
+
+}
+
+.Subsub{
+
+    width: 410px;
+    margin-left: 35px;
+    margin-top:10px;
+}
+
+.fb{
+
+    width: 15px;
+    margin-left: 35px;
+    margin-top: 20px;
+
+}
+
+.ig{
+
+    width: 25px;
+    margin-top: 20px;
+    margin-left: 35px;
+}
+
+.tr{
+
+    width: 16px;
+    margin-top: 20px;
+    margin-left: 35px;
+}
+
+.tt{
+
+    width: 30px;
+    margin-top: 20px;
+    margin-left: 35px;
+}
+
+.imgs  {
+
+    
+    margin-top: 20px;
+    display: flex;
+    gap: 30px;
+    
+}
+
+.imgs a:hover {
+
+    cursor: pointer;
+
+}
+

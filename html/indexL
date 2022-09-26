@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="Style.css">
+    <title>Landing</title>
+</head>
+<body>
+    <header>
+    <div class="logo">
+        <h1>Your Logo</h1>
+    </div>
+
+    <nav>
+        <div class="cabe">
+        <a class = "linha">
+            Home
+        </a>
+
+        <a class = "linha">
+            El mate
+        </a>
+
+        <a class = "linha">
+            Yerba
+        </a>
+
+        <a class = "linha">
+            
+            Contacto
+        </a>
+        </div>
+    </nav>
+    </header>
+
+    <main>
+        <div class="txt">
+        <p>
+            Lorem ipsum dolor sit amet. Et tempora autem et praesentium alias eos ullam quibusdam. 
+            Aut alias repellat sed aspernatur doloribus quo alias dolores qui totam voluptatem et quia sunt et sint omnis. 
+            Qui suscipit harum qui dolorem quam velit laborum qui aperiam veritatis. 
+            Et enim facilis sit voluptatem quas aut voluptate fugit ea unde reiciendis. 
+        </p>
+        </div>
+
+        <div class="subT">
+            <h1 class = "SubT">MATE AMARGO</h1>
+        </div>
+    
+        <div class="subTt">
+            <h1 class = "SubTt">Como hacerlo</h1>
+        </div>
+        
+        <div class="Subsub">
+            <p>
+                Lorem ipsum dolor sit amet. Et tempora autem et praesentium alias eos ullam quibusdam.
+            </p>
+        </div>
+        <div class="imgs">
+            <a href="https://pt-br.facebook.com/">
+                <img src = "fb.png" class = "fb">
+            </a>
+
+            <a href="https://www.instagram.com/">
+                <img src="ig.png" class = "ig">
+            </a>
+        
+            <a href="https://twitter.com/i/flow/login?input_flow_data=%7B%22requested_variant%22%3A%22eyJsYW5nIjoicHQifQ%3D%3D%22%7D">
+                <img src = "tr.png" class = "tr">
+            </a>
+
+            <a href="https://twitter.com/i/flow/login?input_flow_data=%7B%22requested_variant%22%3A%22eyJsYW5nIjoicHQifQ%3D%3D%22%7D">
+                <img src="tt.png" class = "tt">                                                                                                             
+            </a>
+        </div>
+    
+       
+    
+    </main>
+
+</body>
+</html>
